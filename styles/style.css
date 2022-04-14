@@ -59,10 +59,10 @@
 }
 .square-pic {
   position: absolute;
-  height: 568px; 
+  height: 568px;
   width: 568px;
   background-color: #2f80ed;
-  right: 0;   
+  right: 0;  
   top: 64px;
 
 }
@@ -102,7 +102,7 @@
   font-size: 24px;
 }
 span {
-  font-weight: Bold;
+  font-weight: bold;
 }
 
 .section-title {
@@ -116,7 +116,7 @@ font-weight: bolder;
 line-height: 1.15;
 }
 
-.paragraph {
+.description-paragraph {
   margin-bottom: 30px;
   margin-top: 0;
 }
