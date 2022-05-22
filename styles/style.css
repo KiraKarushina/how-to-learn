@@ -81,7 +81,7 @@
   line-height: 1.2;
   color: #2f80ed;
   margin: 0;
-  max-width: 80%;
+  max-width: 175px;
 }
 .two-columns__main-text {
   width: 80%;
@@ -107,6 +107,9 @@
 .two-columns__paragraph {
   margin-bottom: 30px;
   margin-top: 0;
+}
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
 }
 .section-subtitle {
   width: 60%;
@@ -144,6 +147,7 @@
   line-height: 1.2;
   font-weight: normal;
   margin-top: 20px;
+  margin-bottom: 0px;
 }
 .feynman {
   display: flex;
@@ -154,6 +158,7 @@
   min-height: 890px;
 }
 .feynman__img {
+  left: 0%;
   bottom: 0%;
   width: 867px;
   height: 637px;
