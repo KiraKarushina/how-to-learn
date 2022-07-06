@@ -4,9 +4,10 @@
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     margin-top: 0px;
-    font-size: 64px;
+    margin-bottom: 0;
+    font-size: 60px;
     font-weight: bolder;
     line-height: 1.15;
   }

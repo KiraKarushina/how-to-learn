@@ -5,6 +5,7 @@
     flex-direction: row;
     opacity: 1;
     transition: opacity 0.5s ease-in-out 0.5s;
+    align-items: center;
   }
   .footer__column-link:hover {
     opacity: 0.5;
